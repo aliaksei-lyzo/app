@@ -1,0 +1,8 @@
+{
+  "name": "main_app_a",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:aliaksei-lyzo/main_app_a.git",
+  "author": "Aleksey Lyzo <lyzo.alex@gmail.com>",
+  "license": "MIT"
+}
