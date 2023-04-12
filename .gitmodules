@@ -1,0 +1,3 @@
+[submodule "shared_utils"]
+	path = shared_utils
+	url = git@github.com:aliaksei-lyzo/shared_no_deps.git
